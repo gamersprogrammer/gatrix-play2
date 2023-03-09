@@ -1,2 +1,2 @@
-# gatrix-play2
+# gatrix-store
 Next page
